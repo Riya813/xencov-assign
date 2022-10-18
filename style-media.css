@@ -59,6 +59,20 @@
     #how_long_div2 {
         width: 100%;
     }
+    #img_text h1 {
+        font-size: 40px;
+    }
+    #hr_div {
+        width: 90%;
+        margin-left: 20px;
+        padding: 0px;
+    }
+    #hr_footer {
+        margin-left: 10px;
+    }
+    .why_membership_1 h2 {
+        font-size: 35px;
+    }
 }
 
 @media screen and (max-width: 768px) /* tablet portrait */ {
@@ -79,6 +93,7 @@
     .exclusive-membership-div2 {
         margin-left: auto;
         margin-right: auto;
+        width: 100%;
     }
     .point_img {
         width: 100%;
